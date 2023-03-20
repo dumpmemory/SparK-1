@@ -1,4 +1,4 @@
-# SparK: the first successful BERT/MAE-style pretraining on any convolutional networks &nbsp;[![Reddit](https://img.shields.io/badge/Reddit-🔥%20120k%20views-b31b1b.svg?style=social&logo=reddit)](https://www.reddit.com/r/MachineLearning/comments/10ix0l1/r_iclr2023_spotlight_the_first_bertstyle/) [![Twitter](https://img.shields.io/badge/Twitter-🔥%2020k%2B120k%20views-b31b1b.svg?style=social&logo=twitter)](https://twitter.com/keyutian/status/1616606179144380422)
+# SparK: the first successful BERT/MAE-style pretraining on *any* convolutional networks &nbsp;[![Reddit](https://img.shields.io/badge/Reddit-🔥%20120k%20views-b31b1b.svg?style=social&logo=reddit)](https://www.reddit.com/r/MachineLearning/comments/10ix0l1/r_iclr2023_spotlight_the_first_bertstyle/) [![Twitter](https://img.shields.io/badge/Twitter-🔥%2020k%2B120k%20views-b31b1b.svg?style=social&logo=twitter)](https://twitter.com/keyutian/status/1616606179144380422)
 
 This is the official implementation of ICLR paper [Designing BERT for Convolutional Networks: ***Spar***se and Hierarchical Mas***k***ed Modeling](https://arxiv.org/abs/2301.03580).
 We've tried our best to make the codebase clean, short, easy to read, state-of-the-art, and only rely on minimal dependencies.
@@ -21,7 +21,8 @@ We've tried our best to make the codebase clean, short, easy to read, state-of-t
 
 ## 🔥 News
 
-- The share on [TechBeat (将门创投)](https://www.techbeat.net/talk-info?id=758) is scheduled on **Mar. 16th (UTC+0 12am)** too! [[`📹Recorded Video`](https://www.techbeat.net/talk-info?id=758)]
+- On **Mar. 22nd (UTC+8 8pm; UTC+0 12am)** another livestream would be held at [bilibili-极市平台](https://live.bilibili.com/3344545).
+- The share on [TechBeat (将门创投)](https://www.techbeat.net/talk-info?id=758) is scheduled on **Mar. 16th (UTC+8 8pm)** too! [[`📹Recorded Video`](https://www.techbeat.net/talk-info?id=758)]
 - We are honored to be invited by Synced ("机器之心机动组 视频号" on WeChat) to give a talk about SparK on **Feb. 27th (UTC+0 11am, UTC+8 7pm)**, welcome! [[`📹Recorded Video`](https://www.bilibili.com/video/BV1J54y1u7U3/)]
 - This work got accepted to ICLR 2023 as a Spotlight (notable-top-25%).
 - Other articles: [[`Synced`](https://syncedreview.com/2023/01/19/bert-style-pretraining-on-convnets-peking-u-bytedance-oxford-us-sparse-masked-modelling-with-hierarchy-leads-the-way/)]
